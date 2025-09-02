@@ -9,11 +9,11 @@ git clone https://github.com/Josue-JP/Caesar-cipher.git
 
 ### Live example:
 ```bash
-[myPC@Linux test]$ python3 main.py
+[myPC@Linux test]$ python3 Substitution-Cipher.py
 Provide text to encrypt or decrypt: Example_Text
 Please provide '+' to encrypt or '-' to decrypt: +
 Provide your key: Example_Key
 8UayEwi?>iVX
 ```
-**The last line is the output for the encryption/decryption**
+**The last line is the output for the encryption/decryption text**
 
