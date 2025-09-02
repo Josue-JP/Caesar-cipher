@@ -4,7 +4,7 @@ This Repository contains a simple python file that can encrypt and decipher.
 ### How to use
 To use this please git clone this repo inside a terminal and execute the Substitution-Cipher.py file following the instructions provided by the program.
 ```bash
-git clone https://github.com/ 
+git clone https://github.com/Josue-JP/Caesar-cipher.git
 ```
 
 ### Live example:
